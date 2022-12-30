@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\bin\Debug\net6.0\NinthC#.exe
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\bin\Debug\net6.0\NinthC#.deps.json
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\bin\Debug\net6.0\NinthC#.runtimeconfig.json
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\bin\Debug\net6.0\NinthC#.dll
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\bin\Debug\net6.0\NinthC#.pdb
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.ImplicitNamespaceImports.cs
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.dll
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\refint\NinthC#.dll
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.pdb
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\NinthC#.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek Work- C#\NinthC#\obj\Debug\net6.0\ref\NinthC#.dll
